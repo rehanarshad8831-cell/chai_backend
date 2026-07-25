@@ -1,8 +1,3 @@
-// import express from "express"
-// const app=express()
-// export default app
-
-
 import express from "express"
 import cors from "cors"
 import cookieParser from "cookie-parser"
